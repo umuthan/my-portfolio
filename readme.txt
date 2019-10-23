@@ -3,7 +3,7 @@ Contributors: umuthan
 Donate link: http://umuthan.com/
 Tags: custom post type, portfolio, works
 Requires at least: 4.0
-Tested up to: 5.2
+Tested up to: 5.3
 Stable tag: 1.0.0
 Requires PHP: 5.0
 License: GPLv3
